@@ -1,5 +1,4 @@
 import React, { useRef } from 'react'
-import './Playquiz.css'
 
 function Playquiz({Quizzes,count,clicked,correctAns,totalquiz,lastquiz,disableBtn,setDisableBtn,setFinishQuiz,setCount,setLastquiz,setTotalQuiz,setClicked,setCorrectAns}) {
 

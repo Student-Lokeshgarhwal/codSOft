@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import './Quizlist.css'
 import Quizcard from './Quizcard/Quizcard'
 
 function Quizlist() {
